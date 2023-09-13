@@ -10,7 +10,7 @@ CREATE TABLE Ambulatorios (
     capacidade smallint
 ); 
 
--- Tabela Medicos
+-- Tabela Medicos 
 CREATE TABLE Medicos (
     codm int PRIMARY KEY,
     nome varchar(40) NOT NULL,
