@@ -8,7 +8,7 @@ CREATE TABLE Ambulatorios (
     nroa int PRIMARY KEY,
     andar numeric(3) NOT NULL,
     capacidade smallint
-);
+); 
 
 -- Tabela Medicos
 CREATE TABLE Medicos (
